@@ -1,0 +1,10 @@
+C:\Users\hvs34\source\repos\AsalSayıHesaplayıcı\AsalSayıHesaplayıcı\bin\Debug\AsalSayıHesaplayıcı.exe.config
+C:\Users\hvs34\source\repos\AsalSayıHesaplayıcı\AsalSayıHesaplayıcı\bin\Debug\AsalSayıHesaplayıcı.exe
+C:\Users\hvs34\source\repos\AsalSayıHesaplayıcı\AsalSayıHesaplayıcı\bin\Debug\AsalSayıHesaplayıcı.pdb
+C:\Users\hvs34\source\repos\AsalSayıHesaplayıcı\AsalSayıHesaplayıcı\obj\Debug\AsalSayıHesaplayıcı.csproj.AssemblyReference.cache
+C:\Users\hvs34\source\repos\AsalSayıHesaplayıcı\AsalSayıHesaplayıcı\obj\Debug\AsalSayıHesaplayıcı.Form1.resources
+C:\Users\hvs34\source\repos\AsalSayıHesaplayıcı\AsalSayıHesaplayıcı\obj\Debug\AsalSayıHesaplayıcı.Properties.Resources.resources
+C:\Users\hvs34\source\repos\AsalSayıHesaplayıcı\AsalSayıHesaplayıcı\obj\Debug\AsalSayıHesaplayıcı.csproj.GenerateResource.cache
+C:\Users\hvs34\source\repos\AsalSayıHesaplayıcı\AsalSayıHesaplayıcı\obj\Debug\AsalSayıHesaplayıcı.csproj.CoreCompileInputs.cache
+C:\Users\hvs34\source\repos\AsalSayıHesaplayıcı\AsalSayıHesaplayıcı\obj\Debug\AsalSayıHesaplayıcı.exe
+C:\Users\hvs34\source\repos\AsalSayıHesaplayıcı\AsalSayıHesaplayıcı\obj\Debug\AsalSayıHesaplayıcı.pdb
